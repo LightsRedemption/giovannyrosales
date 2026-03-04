@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/lights_gio.jpg'
+image: '/images/pink_gio.jpg'
 ---
 
 Hi, my name is Giovanny Orlando Rosales or Gio for short. I am currentyly a first PhD student at New Mexico State University. I work in two different regimes of Astrophysics: Galactic Archeology and Astereoseismolgy, so galaxies and stars! I am interested in the formation history of the Milky Way
