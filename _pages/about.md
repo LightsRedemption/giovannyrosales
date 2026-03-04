@@ -35,6 +35,6 @@ I truly fell in love with astrophysics research. Long Beach was also the place I
 Aside from all the basic academia things, I love video games, dancing, music and movies. I took a gap year after my undergraduate to learn different things unrelated to physics and picked up on some Blender skills, music software skills, and acting skills. I actually loved the arts so much that I 
 auditioned for Julliard, the number one school in the arts! Obviously I didn't get in... but I believe in taking risks I would otherwise regret in life! I enjoy spontaneity and spending times with others, lerning their stories and how they can influence my own work in astrophysics. 
 
-Stay Curious and Be Friendly UwU
+Stay Curious, Have Fun and Be Friendly UwU
 
 <hr>
